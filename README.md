@@ -6,6 +6,12 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 ### day
 
+- Hability a option that was removed in Magento's Sidebar account Customer
+
+- Resolve Problem of Access Cart Magento
+
+### day
+
 -Include Widgets, Blocks and Pages Through Magento's Admin
 
 -Intall module Correios of Magento
