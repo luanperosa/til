@@ -8,6 +8,10 @@ concepts, bits of syntax, commands, or tips we've recently learned.
 
 ### day
 
+- Manipule files .less with grunt
+
+### day
+
 - Hability a option that was removed in Magento's Sidebar account Customer
 
 - Resolve Problem of Access Cart Magento
